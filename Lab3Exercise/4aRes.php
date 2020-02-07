@@ -1,0 +1,1 @@
+Selected gender: <?php echo $_POST["gender"] ?>
